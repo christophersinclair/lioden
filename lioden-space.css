@@ -24,6 +24,9 @@ border-radius: 5px;
  
  
 /* Links */
+a {
+	color: #0000ff;
+}
  
 .table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
 color: #0000ff;

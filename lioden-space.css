@@ -31,7 +31,7 @@ color: #000000;
  
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
 border-bottom: 1px solid #000000;
-color: #000000;
+color: #0000ff;
 }
  
 /* Topbar */
@@ -141,7 +141,7 @@ color: #000;
  
 h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 font-family: "Carter One";
-color: #000;
+color: #1ad1ff;
 }
  
 .col-md-9 {

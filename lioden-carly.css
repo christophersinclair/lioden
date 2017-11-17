@@ -1,0 +1,213 @@
+body
+{
+background:url('https://i.imgur.com/Rc51WNe.jpg');
+background-attachment:fixed;
+background-size:100%;
+color: Purple;
+}
+
+.col-md-9.col-xs-12 {
+    background: rgba(204, 165, 255, 0.326) !important;
+    border: none !important;
+    border-top: none !important;
+    border-right: none !important;
+    border-bottom: none !important;
+    border-radius: 15px 50px;
+}
+
+h1 {color:#FF00A2;text-align:center;font-family:Times New Roman,Times, Serif;}
+ 
+h2 {color:#D22EFF;font-family:Arial, Helvetica, sans-serif;}
+ 
+h3 {color:#0B00A8!important;font-family:Arial,sans-serif;}
+
+.scroll {
+    float: left;
+    background: rgb(163, 169,168,0.5);
+    width: 250px;
+    height: 200px;
+    border: 1px solid #04fdfd;
+    border-radius: 10px;
+    padding: 10px;
+    color: #d1ff65;
+    text-align: center;
+    overflow: auto;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+
+{background-color: rgba(219,245,255,1)!important;color:#800080;}
+ 
+.right {background:#c3f8fd!important;color:#b536fd;}
+.left {background:#00008b!important;color:#FF00FF;}
+.left.b {background:#aa39f9!important;color:#ffffff;}
+.right_cub {background:#c3f8fd!important;color:#0000ff;}
+.right_odd {background: #bc88f3!important;color:#000000;}
+
+.top {background:#00FFFF!important;color:#8B008B!important;text-align:center;}
+ 
+th {background:#00FFFF!important;color:#ff4d4d!important;text-align:center;}
+ 
+.bottom {background:#c300ff!important;color:#ffe4e1!important;text-align:center;}
+
+
+div.left {background:#00008B!important;color:#ffe4e1;}
+div.feature {background-color: rgba(195, 248, 253,0.5)!important;}
+
+a:link {color:#fb00ff;}        
+a:visited {color:#00FFFF;}   
+a:hover {color:#590090;}         
+a:active {color:#00CED1;}  
+
+
+.table a:link
+{color:#FF1493!important;}
+ 
+.table a:visited
+{color:#a300ff!important;}
+ 
+.table a:hover
+ {color:#590090!important;} 
+ 
+.table a:active
+{color:#FF0000!important;}  
+
+
+.sidebar {background-color: rgba(212,125,255,0.5)!important;color:#FF1493;}
+ 
+.panel {background:None;color:#000080;box-shadow:none;border:none;}
+ 
+.xsmall {background:none;}
+
+
+.chat_light {color:black;background:#89eef5;}
+ 
+.chat_dark {color:white;background:#191970;}
+
+
+
+
+.topbar {background-color: rgba(16,0,135,0.5)!important;}
+ 
+.navbar {background-color: rgba(16,0,135,0.5)!important;}
+
+
+input[type="submit"] {
+background:#00008B;
+color:#DA70D6;
+text-shadow:none;
+box-shadow:none;}
+ 
+input[type="submit"]:hover {
+background:#98FB98;
+color:#DB7093;
+text-shadow:none;
+box-shadow:none;}
+
+
+.navbar-default .navbar-nav > li > a {color:#F0FFFF!important;}
+.navbar-default .navbar-nav > li > a:hover {background:#B0E0E6;}
+
+
+.breadcrumb {background-color: rgba(0,238,255,0.5)!important;color:#DB7093;}
+
+
+.progress-bar-warning {background:#FFEFD5!important;}
+.progress-bar-danger {background:#EEE8AA!important;}
+.progress-bar-success {background:#ff0000!important;}
+.progress-bar {background:#99ebff!important;}
+.progress {background-color:#99ffcb!important;}
+.progress div {color:#000080;}
+
+
+input[type="text"]{color:black;}
+input[type="password"] {color:black;}
+textarea {color:black;}
+select {color:black;}
+
+
+.container .main
+{
+background:none;
+box-shadow:none;
+border:none;
+}
+ 
+div#lion_image>div
+{
+background:url('http://www.angelsarenearus.com/home/wp-content/uploads/2012/08/Moon-Lion.jpg')!important;
+}
+
+.main {
+background: none
+}
+
+.col-xs-12 {
+background: none
+}
+
+body, a:hover {cursor: url(http://ani.cursors-4u.net/movie/mov-2/mov140.ani), url(http://ani.cursors-4u.net/movie/mov-2/mov140.png), progress !important;}
+
+div.box1 {
+width: 550px;
+    height: 250px;
+    background: rgba(210,46,255,0.5);
+    border: 3px solid cyan;
+    border-radius: None;
+    color: cyan;
+    overflow: hidden;
+    -webkit-transition: all ease 2s;
+    transition: all ease 2s;
+}
+.box1:hover {
+    width: 650px;
+    height: 350px;
+    background-color: rgba(0,238,255,0.5);
+    border: 3px solid purple;
+    border-radius: 35px;
+    color: black;
+    overflow: auto;
+}
+
+div.box2 {
+width: 550px;
+    height: 250px;
+    background: rgba(0, 0, 139, 0.78);
+    border: 3px solid cyan;
+    border-radius: None;
+    color: cyan;
+    overflow: hidden;
+    -webkit-transition: all ease 2s;
+    transition: all ease 2s;
+}
+.box2:hover {
+    width: 650px;
+    height: 350px;
+    background-color: rgba(241, 115, 241, 0.49);
+    border: 3px solid purple;
+    border-radius: 35px;
+    color: Purple;
+    overflow: auto;
+}
+
+
+div.Mod {
+width: 350px;
+    height: 100px;
+    background: rgba(210,46,255,0.5);
+    border: 3px solid cyan;
+    border-radius: 40px;
+    color: cyan;
+    overflow: hidden;
+    -webkit-transition: all ease 2s;
+    transition: all ease 2s;
+}
+.Mod:hover {
+    width: 550px;
+    height: 450px;
+    background-color: rgba(0,238,255,0.5);
+    border: 3px solid purple;
+    border-radius: 35px;
+    color: black;
+    overflow: auto;}
